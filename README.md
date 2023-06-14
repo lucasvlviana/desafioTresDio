@@ -14,3 +14,5 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 Links úteis
 Download do NVDA
 Wikipedia
+
+https://pt.wikipedia.org/wiki/HTML5
